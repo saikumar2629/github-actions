@@ -20,7 +20,7 @@ jobs:
         run: ls -l
 
       - name: Print custom message
-        run: echo "This is my second GitHub Actions task"
+        run: echo "This is my fourth GitHub Actions task"
 
       - name: Run script
         run: |
